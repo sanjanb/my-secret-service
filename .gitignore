@@ -9,7 +9,6 @@
 # production
 /build
 
-/chat-app-react-redux-saga-websockets
 
 # misc
 .DS_Store
